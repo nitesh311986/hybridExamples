@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [All Test Suite]">
+  <listeners>
+    <listener class-name="utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="C:/shreeji/POMEXAMPLE/hybridExamples/src/test/java/testCase(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testCase.TC_001_Registration">
+        <methods>
+          <include name="setUp"/>
+          <include name="accountRegistration"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCase.TC_001_Registration -->
+    </classes>
+  </test> <!-- C:/shreeji/POMEXAMPLE/hybridExamples/src/test/java/testCase(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-07T19:56:08Z" name="All Test Suite" finished-at="2023-02-07T19:56:47Z" duration-ms="38614">
+    <groups>
+    </groups>
+    <test started-at="2023-02-07T19:56:08Z" name="C:/shreeji/POMEXAMPLE/hybridExamples/src/test/java/testCase" finished-at="2023-02-07T19:56:47Z" duration-ms="38614">
+      <class name="testCase.TC_001_Registration">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:testCase.TC_001_Registration@7ff95560]" started-at="2023-02-07T19:56:11Z" name="setUp" finished-at="2023-02-07T19:56:37Z" duration-ms="25906" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="accountRegistration()[pri:0, instance:testCase.TC_001_Registration@7ff95560]" started-at="2023-02-07T19:56:37Z" name="accountRegistration" finished-at="2023-02-07T19:56:46Z" duration-ms="9247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC_001_Registration@7ff95560]" started-at="2023-02-07T19:56:47Z" name="tearDown" finished-at="2023-02-07T19:56:47Z" duration-ms="545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCase.TC_001_Registration -->
+    </test> <!-- C:/shreeji/POMEXAMPLE/hybridExamples/src/test/java/testCase -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

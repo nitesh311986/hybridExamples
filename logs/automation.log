@@ -1,0 +1,112 @@
+12:37:06.832 [main] INFO  testCase.TC_001_Registration - Started new test case TC_001_Registration
+12:37:07.133 [main] INFO  testCase.TC_001_Registration - Clicke On My Account Link
+12:37:08.107 [main] INFO  testCase.TC_001_Registration - Clicke On Register Link
+12:37:08.337 [main] INFO  testCase.TC_001_Registration - Enter First name
+12:37:08.581 [main] INFO  testCase.TC_001_Registration - Enter Last name
+12:37:09.117 [main] INFO  testCase.TC_001_Registration - Enter Email
+12:37:09.516 [main] INFO  testCase.TC_001_Registration - Enter Password
+12:38:10.137 [main] INFO  testCase.TC_001_Registration - Started new test case TC_001_Registration
+12:38:10.308 [main] INFO  testCase.TC_001_Registration - Clicke On My Account Link
+12:38:10.967 [main] INFO  testCase.TC_001_Registration - Clicke On Register Link
+12:38:11.166 [main] INFO  testCase.TC_001_Registration - Enter First name
+12:38:11.348 [main] INFO  testCase.TC_001_Registration - Enter Last name
+12:38:11.544 [main] INFO  testCase.TC_001_Registration - Enter Email
+12:38:11.760 [main] INFO  testCase.TC_001_Registration - Enter Password
+13:01:12.455 [main] INFO  testCase.TC_001_Registration - Started new test case TC_001_Registration
+13:01:12.606 [main] INFO  testCase.TC_001_Registration - Clicke On My Account Link
+13:01:13.510 [main] INFO  testCase.TC_001_Registration - Clicke On Register Link
+13:01:13.741 [main] INFO  testCase.TC_001_Registration - Enter First name
+13:01:13.974 [main] INFO  testCase.TC_001_Registration - Enter Last name
+13:01:14.362 [main] INFO  testCase.TC_001_Registration - Enter Email
+13:01:14.509 [main] INFO  testCase.TC_001_Registration - Enter Password
+13:13:53.439 [main] INFO  testCase.TC_001_Registration - Started new test case TC_001_Registration
+13:13:53.606 [main] INFO  testCase.TC_001_Registration - Clicke On My Account Link
+13:13:54.449 [main] INFO  testCase.TC_001_Registration - Clicke On Register Link
+13:13:54.656 [main] INFO  testCase.TC_001_Registration - Enter First name
+13:13:54.807 [main] INFO  testCase.TC_001_Registration - Enter Last name
+13:13:55.044 [main] INFO  testCase.TC_001_Registration - Enter Email
+13:13:55.251 [main] INFO  testCase.TC_001_Registration - Enter Password
+13:20:45.904 [main] INFO  testCase.TC_001_Registration - Started new test case TC_001_Registration
+13:20:46.046 [main] INFO  testCase.TC_001_Registration - Clicke On My Account Link
+13:20:46.906 [main] INFO  testCase.TC_001_Registration - Clicke On Register Link
+13:20:47.135 [main] INFO  testCase.TC_001_Registration - Enter First name
+13:20:47.265 [main] INFO  testCase.TC_001_Registration - Enter Last name
+13:20:47.387 [main] INFO  testCase.TC_001_Registration - Enter Email
+13:20:47.671 [main] INFO  testCase.TC_001_Registration - Enter Password
+13:24:13.527 [main] INFO  testCase.TC_001_Registration - Started new test case TC_001_Registration
+13:24:13.668 [main] INFO  testCase.TC_001_Registration - Clicke On My Account Link
+13:24:14.564 [main] INFO  testCase.TC_001_Registration - Clicke On Register Link
+13:24:14.772 [main] INFO  testCase.TC_001_Registration - Enter First name
+13:24:14.967 [main] INFO  testCase.TC_001_Registration - Enter Last name
+13:24:15.166 [main] INFO  testCase.TC_001_Registration - Enter Email
+13:24:15.575 [main] INFO  testCase.TC_001_Registration - Enter Password
+13:25:12.369 [main] INFO  testCase.TC_001_Registration - Started new test case TC_001_Registration
+13:25:21.286 [main] INFO  testCase.TC_001_Registration - Clicke On My Account Link
+13:25:24.864 [main] INFO  testCase.TC_001_Registration - Clicke On Register Link
+13:25:25.865 [main] INFO  testCase.TC_001_Registration - Enter First name
+13:25:25.936 [main] INFO  testCase.TC_001_Registration - Enter Last name
+13:25:26.018 [main] INFO  testCase.TC_001_Registration - Enter Email
+13:25:26.389 [main] INFO  testCase.TC_001_Registration - Enter Password
+13:27:42.420 [TestNG-tests-1] INFO  testCase.TC_001_Registration - Started new test case TC_001_Registration
+13:27:42.550 [TestNG-tests-1] INFO  testCase.TC_001_Registration - Clicke On My Account Link
+13:27:43.752 [TestNG-tests-1] INFO  testCase.TC_001_Registration - Clicke On Register Link
+13:27:43.915 [TestNG-tests-1] INFO  testCase.TC_001_Registration - Enter First name
+13:27:44.052 [TestNG-tests-1] INFO  testCase.TC_001_Registration - Enter Last name
+13:27:44.306 [TestNG-tests-1] INFO  testCase.TC_001_Registration - Enter Email
+13:27:44.468 [TestNG-tests-1] INFO  testCase.TC_001_Registration - Enter Password
+13:27:51.602 [TestNG-tests-2] INFO  testCase.TC_001_Registration - Started new test case TC_001_Registration
+13:27:52.001 [TestNG-tests-2] INFO  testCase.TC_001_Registration - Clicke On My Account Link
+13:27:53.073 [TestNG-tests-2] INFO  testCase.TC_001_Registration - Clicke On Register Link
+13:27:53.232 [TestNG-tests-2] INFO  testCase.TC_001_Registration - Enter First name
+13:27:53.397 [TestNG-tests-2] INFO  testCase.TC_001_Registration - Enter Last name
+13:27:53.513 [TestNG-tests-2] INFO  testCase.TC_001_Registration - Enter Email
+13:27:53.559 [TestNG-tests-2] INFO  testCase.TC_001_Registration - Enter Password
+17:31:36.175 [main] INFO  testCase.TC_001_Registration - Started new test case TC_001_Registration
+17:31:36.637 [main] INFO  testCase.TC_001_Registration - Clicke On My Account Link
+17:31:37.763 [main] INFO  testCase.TC_001_Registration - Clicke On Register Link
+17:31:38.048 [main] INFO  testCase.TC_001_Registration - Enter First name
+17:31:38.317 [main] INFO  testCase.TC_001_Registration - Enter Last name
+17:31:38.830 [main] INFO  testCase.TC_001_Registration - Enter Email
+17:31:38.941 [main] INFO  testCase.TC_001_Registration - Enter Password
+18:21:09.498 [main] INFO  testCase.TC_001_Registration - Started new test case TC_001_Registration
+18:21:09.673 [main] INFO  testCase.TC_001_Registration - Clicke On My Account Link
+18:21:10.747 [main] INFO  testCase.TC_001_Registration - Clicke On Register Link
+18:21:10.937 [main] INFO  testCase.TC_001_Registration - Enter First name
+18:21:11.107 [main] INFO  testCase.TC_001_Registration - Enter Last name
+18:21:11.347 [main] INFO  testCase.TC_001_Registration - Enter Email
+18:21:11.880 [main] INFO  testCase.TC_001_Registration - Enter Password
+18:24:46.522 [main] INFO  testCase.TC_001_Registration - Started new test case TC_001_Registration
+18:24:46.690 [main] INFO  testCase.TC_001_Registration - Clicke On My Account Link
+18:24:47.673 [main] INFO  testCase.TC_001_Registration - Clicke On Register Link
+18:24:47.846 [main] INFO  testCase.TC_001_Registration - Enter First name
+18:24:48.014 [main] INFO  testCase.TC_001_Registration - Enter Last name
+18:24:48.237 [main] INFO  testCase.TC_001_Registration - Enter Email
+18:24:48.434 [main] INFO  testCase.TC_001_Registration - Enter Password
+18:45:41.893 [main] INFO  testCase.TC_001_Registration - Started new test case TC_001_Registration
+18:45:42.070 [main] INFO  testCase.TC_001_Registration - Clicke On My Account Link
+18:45:43.451 [main] INFO  testCase.TC_001_Registration - Clicke On Register Link
+18:45:43.739 [main] INFO  testCase.TC_001_Registration - Enter First name
+18:45:43.897 [main] INFO  testCase.TC_001_Registration - Enter Last name
+18:45:44.124 [main] INFO  testCase.TC_001_Registration - Enter Email
+18:45:44.378 [main] INFO  testCase.TC_001_Registration - Enter Password
+18:48:39.999 [main] INFO  testCase.TC_001_Registration - Started new test case TC_001_Registration
+18:48:41.167 [main] INFO  testCase.TC_001_Registration - Clicke On My Account Link
+18:48:42.172 [main] INFO  testCase.TC_001_Registration - Clicke On Register Link
+18:48:42.439 [main] INFO  testCase.TC_001_Registration - Enter First name
+18:48:42.566 [main] INFO  testCase.TC_001_Registration - Enter Last name
+18:48:42.721 [main] INFO  testCase.TC_001_Registration - Enter Email
+18:48:42.864 [main] INFO  testCase.TC_001_Registration - Enter Password
+18:54:08.590 [main] INFO  testCase.TC_001_Registration - Started new test case TC_001_Registration
+18:54:08.891 [main] INFO  testCase.TC_001_Registration - Clicke On My Account Link
+18:54:09.911 [main] INFO  testCase.TC_001_Registration - Clicke On Register Link
+18:54:10.170 [main] INFO  testCase.TC_001_Registration - Enter First name
+18:54:10.385 [main] INFO  testCase.TC_001_Registration - Enter Last name
+18:54:10.796 [main] INFO  testCase.TC_001_Registration - Enter Email
+18:54:10.977 [main] INFO  testCase.TC_001_Registration - Enter Password
+19:56:37.604 [main] INFO  testCase.TC_001_Registration - Started new test case TC_001_Registration
+19:56:38.342 [main] INFO  testCase.TC_001_Registration - Clicke On My Account Link
+19:56:39.243 [main] INFO  testCase.TC_001_Registration - Clicke On Register Link
+19:56:39.493 [main] INFO  testCase.TC_001_Registration - Enter First name
+19:56:39.594 [main] INFO  testCase.TC_001_Registration - Enter Last name
+19:56:39.743 [main] INFO  testCase.TC_001_Registration - Enter Email
+19:56:39.885 [main] INFO  testCase.TC_001_Registration - Enter Password
